@@ -9,4 +9,5 @@ I add seven line
 I add eight line
 I add nine line
 I add ten line
-I resolve a bug
+I resolved a bug
+I resolved a bug again
